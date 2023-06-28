@@ -65,9 +65,10 @@ There will be some instructions given when playing, players can follow the instr
 ## 3.1 Set Up of the Game
 Players can launch the game using a suitable or preferred Integrated Development Environment(IDE) such as Dev C++, Visual Studio Code and many more.
 
-**Note**: For players who use G++ to compile the code, it is recommended to compile it using the command below.
+**Note**: For players who use G++ to compile the code, it is recommended to compile and execute it using the command below.
 ```
 g++ -std=c++11 ClueBagList.cpp ClueList.cpp Clue.cpp InterviewList.cpp Interview.cpp Game.cpp Main.cpp -o program
+./program
 ```
 
 ## 3.2 Start the Game
