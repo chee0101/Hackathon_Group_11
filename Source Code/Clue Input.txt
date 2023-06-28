@@ -1,0 +1,100 @@
+Emily's Room
+Phone
+1
+Text messages with Mark.
+Mark and Emily have been meeting privately without Lily's knowledge. But they are in a quarrel now because Emily wants to break up with Mark.
+Emily's Room
+Bed
+2
+A torn photograph taken with Mark hidden under her bed.
+Showing Emily's firm decision to end the underground relationship with Mark.
+Emily's Room
+Drawer
+3
+Anonymous letter tecked away in the drawer.
+A mysterious message urging Emily to meet someone in her room that night.
+Emily's Room
+Floor
+4
+Shattered mirror near the scene of the crime.
+Evidence of violent confrontation between two individuals.
+Emily's Room
+Closet
+5
+Bloodstained clothing hidden in the closet.
+Might have been used by the murderer during the incident.
+Emily's Room
+Table
+6
+Torn necklace under the table.
+Someone had engaged in a rude action towards Emily.
+Alex's Room
+Drawer
+1
+Love letters in a drawer.
+The letters are addressed to Sarah.
+Alex's Room
+Document file
+2
+Artwork expressing feelings of anger and desire for justice.
+Depicts Alex's awareness of Sarah is being bullied by Emily. He might take action to protect Sarah.
+Alex's Room
+Phone
+3
+Text messages to Emily.
+The messages are intended to confront Emily about her bullying behavior.
+Sarah's Room
+Table
+1
+Scratched photo frame on the table.
+Indicating Sarah might have strong negative emotions towards someone.
+Sarah's Room
+Drawer
+2
+Personal journal entries in the drawer.
+Describing Sarah's feelings of frustation and the daily struggle to maintain her self-confidence in the face of relentless bullying by Emily.
+Sarah's Room
+Wastebasket
+3
+Shredded pieces of paper in the wastebasket.
+It is an incomplete letter written by Sarah seeking help to escape from Emily's bullying.
+Mark's Room
+Metal box
+1
+Collection of torn love letters in a box.
+They are the letters between Emily and Mark. The torn edges suggest a troubled dynamic within their romantic connection.
+Mark's Room
+Bed
+2
+Jewelry box with missing items on his bed.
+Indicating Mark's involvement in the incident but not sure with the reason behind his action of taking back this box.
+Mark's Room
+Drawer
+3
+Anger management pamphlet in the drawer.
+Raises questions about Mark's emotional state and his ability to control his anger.
+Lily's Room
+Bag
+1
+Pharmacist work license in her bag.
+Lily's educational background might have any connections with Emily's death.
+Lily's Room
+Phone
+2
+Couple photo of her and Mark in her phone.
+Relationships among Emily, Lily and Mark may be the potiential impact of this incident.
+Lily's Room
+Wastebasket
+3
+Purchase Receipt for sleep medication in wastebasket.
+Raises questions about the usage of sleep medication.
+Garden
+Flower bed
+1
+Disturbed soil near a flower bed.
+Found a sculpture with traces of blood on its base. Was the sculpture used as a weapon during a confrontation?
+Toilet
+Sink
+1
+A piece of tissue with blood stain under the sink.
+Suggests that someone intentionally used it to clean up after Emily's injuries, possibly in an attempt to remove traces of the crime.
