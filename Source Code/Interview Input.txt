@@ -1,0 +1,162 @@
+1
+0
+===================== Now, you will start interviewing Alex. =====================
+
+You: Alex, thank you for coming in for this interview. I would like to ask you some 
+questions regarding the incident that took place at the vacation house. 
+Your cooperation and honesty are crucial in helping us understand what transpired.*
+1
+1
+You: Could you tell me about your relationship with Emily?
+
+Alex: Well, Emily and I didn't have a particularly close bond. We knew each other 
+from university, but we weren't very close friends.*
+1
+2
+You: When and where did you last meet Emily before the incident? What happened during
+that encounter?
+
+Alex: I met Emily for the last time before the incident at the vacation house. It was 
+in the afternoon, and she seemed upset about something, but she didn't mention the 
+reason. We didn't have much of a conversation at that time.*
+1
+3
+You: Now, let's talk about the day of the incident. What did you do from the beginning 
+until the end of the day?
+
+Alex: On the day of the incident, I spent most of my time with Sarah. We went for a 
+walk in the morning and had lunch together. After that, I joined the rest of the group
+in various activities at the vacation house.*
+1
+4
+You: Did you notice any possible signs or anything suspicious leading up to the 
+incident?
+
+Alex: Honestly, I didn't notice anything out of the ordinary. I was mostly focused on 
+supporting Sarah and being there for her. My attention was on the tension between 
+Sarah and Emily, but I didn't anticipate it would escalate to such a tragic event.*
+1
+5
+You: Thank you Alex, for your cooperation. Your insights will help us understand the 
+events better.*
+2
+0
+===================== Now, you will start interviewing Sarah. =====================
+
+You: Sarah, I appreciate your willingness to speak with us about the incident. 
+Please know that we are here to uncover the truth and ensure justice. Your perspective 
+and insights will be valuable in our investigation.*
+2
+1
+You: Sarah, can you tell me about your relationship with Emily?
+
+Sarah: I... okay...Emily and I had a complicated relationship. She was my 
+classmate in university, but she bullied me for a long time. It was really difficult 
+for me.
+
+You: Sorry to hear that...I understand you might not want to discuss Emily due to the 
+history of bullying, but I need to ask you a few questions.*
+2
+2
+You: When and where did you last encounter Emily before the incident? Can you tell me what 
+happened during that encounter?
+
+Sarah: It was the night before the tragedy. Emily, Lily and I had dinner together at 
+a restaurant nearby. 
+It was my attempt to confront her about the bullying and request an apology. We argued, 
+and it didn't end well. I left feeling frustrated and hurt.*
+2
+3
+You: Now, let's talk about the day of the incident. Can you walk me through your 
+activities from the beginning until the end of the day?
+
+Sarah: During the day, I spent most of my time with Alex. We went for a walk in the 
+morning, had meals together, and tried to enjoy our time.*
+2
+4
+You: Did you notice any signs or anything suspicious leading up to the incident?
+
+Sarah: I didn't pay much attention to anything else. My mind was consumed by the 
+situation between us.*
+2
+5
+You: Thank you Sarah, for sharing your side of the story. Your cooperation is 
+appreciated.*
+3
+0
+===================== Now, you will start interviewing Mark. =====================
+
+You: Mark, thank you for being here. We would like to discuss your relationship with 
+Emily and the events leading up to the incident. Your cooperation is essential in 
+shedding light on what happened that day. We are here to find answers and bring 
+closure to this case.*
+3
+1
+You: Mark, I would like to ask you a few questions about your relationship with Emily.
+
+Mark: Our relationship has been complicated lately. We have a strained relationship 
+recently.*
+3
+2
+You: When and where did you last meet Emily before the incident? Can you describe what 
+happened during that encounter?
+
+Mark: It was in Emily's room at the vacation house. We had a heated argument about our 
+relationship. Things got intense, and we both said hurtful things to each other.*
+3
+3
+You: Now, let's talk about the day of the incident. Can you walk me through your 
+activities from the beginning until the end of the day?
+
+Mark: During the day, I spent time with the group. We did various activities together, 
+like playing games and going for a swim.*
+3
+4
+You: Did you notice any signs or anything suspicious leading up to the incident?
+
+Mark: The tension between Emily and Sarah had been ongoing, but I didn't anticipate it 
+would escalate to violence. I didn't notice any specific signs that something tragic 
+was about to happen.*
+3
+5
+You: Thank you Mark, for your cooperation and for providing your perspective on the 
+events. Your input is valuable for our investigation.*
+4
+0
+===================== Now, you will start interviewing Lily. =====================
+
+You: Lily, I appreciate your presence here today. We would like to hear about your 
+interactions and observations before and during the incident. Your cooperation will 
+greatly assist us in our investigation.*
+4
+1
+You: Lily, Can you describe your relationship with Emily?
+
+Lily: Emily and I have been childhood friends. We used to be very close, but as we 
+grew older, our friendship became more complicated. There were moments of jealousy and 
+competition between us.*
+4
+2
+You: When and where did you last encounter Emily before the incident? What can you 
+tell me about that encounter?
+
+Lily: We had dinner together at the vacation house the night before the tragedy. We 
+reminisced about our childhood memories, but there was also an underlying tension 
+between us. I could feel that things weren't the same as before.*
+4
+3
+You: Let's discuss the day of the incident. Can you walk me through your activities 
+from the beginning until the end of the day?
+
+Lily: Throughout the day, I spent my time in my room completing my urgent job.*
+4
+4
+You: Did you notice any signs or anything suspicious leading up to the incident?
+
+Lily: Honestly, I was preoccupied with some urgent work I needed to finish, so I 
+wasn't paying close attention to everything happening around me. I didn't notice 
+anything out of the ordinary or any signs pointing to what was about to occur.*
+4
+5
+You: Thank you Lily, for your cooperation and sharing your perspective on the events.
+Your insights will help us in our investigation.*
