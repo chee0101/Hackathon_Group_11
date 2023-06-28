@@ -6,6 +6,12 @@
 
 ---
 
+# Link to the Game Demo Video
+
+[Game Demo Video](https://www.youtube.com/watch?v=Huyw2MUlBE4)
+
+---
+
 # 1.0 Description of The Game 
   
   ## 1.1 Game Title 
@@ -231,8 +237,3 @@ Figure 14: The player can choose to save the game when quitting
 
 Figure 15: End of the game
 
----
-
-# 7.0 Link to the Game Demo Video
-
-[Game Demo Video](https://www.youtube.com/watch?v=Huyw2MUlBE4)
