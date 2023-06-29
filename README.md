@@ -164,76 +164,76 @@ In the `ClueBagList.h` file, the role of the linked list is to implement a dynam
 # 6.0 Screenshots of the Game
 
 ## 6.1 Logo of the Game
-![Screenshot 2023-06-28 021400](https://github.com/chee0101/hackathon/assets/121498882/422a05d0-dbb7-43e9-9764-06d3c36b780a)
+![Logo](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/1%20Logo.jpg)
 
 Figure 1: Displayed when the game started.
 
 ## 6.2 Welcome Session
-![Welcome](https://github.com/chee0101/hackathon/assets/121498882/8f347faa-11d7-4fd5-8bc7-792d626903b1)
+![Welcome](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/2%20Welcome.jpg)
 
 Figure 2: Welcome the player with a brief explanation of the game
 
 ## 6.3 Main Menu
-![image](https://github.com/chee0101/hackathon/assets/121498882/f7dfc635-cb95-44e9-a43b-41d6b771be7e)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/3%20Main%20Menu.jpg)
 
 Figure 3: The player can select to start a new game or continue the previous game
 
 ## 6.4 Story Background
-![image](https://github.com/chee0101/hackathon/assets/121498882/c4d755fb-eadd-4e56-bf89-bffb524b488c)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/4%20Story%20Background.png)
 
 Figure 4: First part of the game: Story Background
 
 ## 6.5 Interview Session
-![image](https://github.com/chee0101/hackathon/assets/121498882/91e50777-95e1-4845-8a08-cb09ee2f8b80)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/5%20Interview%20Session.png)
 
 Figure 5: Second part of the game: Interview session
 
 ## 6.6 Interactive Dialogue
-![image](https://github.com/chee0101/hackathon/assets/121498882/aea225df-3948-4ea1-9206-7207e5a7fe17)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/6%20Interactive%20Dialogue.png)
 
 Figure 6: The player can choose the suspect and questions
 
 ## 6.7 Clue Searching Session
-![image](https://github.com/chee0101/hackathon/assets/121498882/4faf00df-ba53-4b1b-a6da-13021b81a45f)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/7%20Clue%20Searching.png)
 
 Figure 7: Third part of the game: Clue Searching Session
 
 ## 6.8 Interactive Navigation
-![image](https://github.com/chee0101/hackathon/assets/121498882/940a1ece-5647-4712-a229-189178e77cb1)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/8%20Navigation%201.png)
 
 Figure 8: The player can choose which location to be searched first
 
-![image](https://github.com/chee0101/hackathon/assets/121498882/88beb0ec-0fa4-4cef-b5a7-af28431e0a5c)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/9%20Navigation%202.png)
 
 Figure 9: The player can choose which spot of the location to be searched first
 
 ## 6.9 Game Menu
-![image](https://github.com/chee0101/hackathon/assets/121498882/61d75730-70ca-45bf-8451-fffe04af19ee)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/10%20Game%20Menu.png)
 
 Figure 10: After the first three part of the game has been played, the player can choose to proceed to guess the murderer or continue to gather information
 
 ## 6.10 Clue Bag
-![image](https://github.com/chee0101/hackathon/assets/121498882/1cc97208-7308-4ffc-b194-60de608dda79)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/11%20Clue%20Bag.png)
 
 Figure 11: Players can check the clue bag to recall the found clues
 
 ## 6.11 Guess The Murderer
-![image](https://github.com/chee0101/hackathon/assets/121498882/82c1a5a9-b83a-441d-86d6-3acde4f06263)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/12%20Murderer%20Guessing.png)
 
 Figure 12: Forth part of the game: Guess The Murderer
 
 ## 6.12 Fail case
-![image](https://github.com/chee0101/hackathon/assets/121498882/03c011af-f986-48c4-b6eb-0671f567177b)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/13%20Fail%20Case.png)
 
 Figure 13: The player can choose to know the truth or not if fail
 
 ## 6.13 Save Game
-![image](https://github.com/chee0101/hackathon/assets/121498882/59e1fea5-ca84-4c0c-b124-9f37632f521f)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/13%20Fail%20Case.png)
 
 Figure 14: The player can choose to save the game when quitting
 
 ## 6.14 The end
-![image](https://github.com/chee0101/hackathon/assets/121498882/0b8b887d-63e7-4be4-86b5-bc4930e7dac9)
+![image](https://github.com/chee0101/Hackathon_Group_11/blob/main/Image/15%20The%20End.png)
 
 Figure 15: End of the game
 
